@@ -6,7 +6,6 @@
 #include<cmath>
 #include<vector>
 #include<queue>
-#include<map>
 using namespace std;
 
 const int MAX = 1000;
